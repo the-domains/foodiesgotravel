@@ -1,0 +1,28 @@
+name: Foodiesgotravel
+favicon: null
+layout_spectrum: 0.9264136219862849
+typography_spectrum: 0.5015609317924827
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.19833978568203747
+  lightness: 0.29228333407081664
+  saturation: 0.9261970072984695
+  rhythmicContrast: 0.410522275371477
+purpose: []
